@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Julio Cesar 
 ### Sou um Programador FullStack, sempre em busca de mais conhecimento!
-#### Skills: HTML / CSS / JS / React / React Native / C / C++ / VBA
+#### Skills: HTML / CSS / JS / React / React Native / C / C++
 
 ![](https://github.com/Julio5G/Julio5G/blob/main/Banner.png)
 
@@ -8,6 +8,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=julio5g&show_icons=true&theme=radical" width = 400>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julio5g&layout=compact&theme=radical" width = 400>
 </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=60&center=true&vCenter=true&width=2284&height=100&lines=Clean+Code)](https://git.io/typing-svg)
 
 <p align="center">
 	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
