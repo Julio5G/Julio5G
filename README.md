@@ -2,8 +2,6 @@
 ### Sou um Programador sempre em busca de mais conhecimento!
 #### Skills: HTML / CSS / JS / React / React Native / C / C++
 
-![](https://github.com/Julio5G/Julio5G/blob/main/Banner.png)
-
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=julio5g&show_icons=true&theme=radical" width = 400>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julio5g&layout=compact&theme=radical" width = 400>
