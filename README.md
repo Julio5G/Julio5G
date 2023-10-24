@@ -1,5 +1,5 @@
 ## Olá! Meu nome é Julio Cesar 
-### Sou um Programador FullStack, sempre em busca de mais conhecimento!
+### Sou um Programador sempre em busca de mais conhecimento!
 #### Skills: HTML / CSS / JS / React / React Native / C / C++
 
 ![](https://github.com/Julio5G/Julio5G/blob/main/Banner.png)
